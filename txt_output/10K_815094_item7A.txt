@@ -1,0 +1,29 @@
+ ITEM 7A. 
+
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+##TABLE_END
+
+Our business and financial results are affected by fluctuations in world financial markets, including changes in currency exchange rates and interest rates. We manage these risks through a combination of normal operating and financing activities.
+
+Investment and Interest Rate Risk
+
+Our exposure to market risk for changes in interest rates relates primarily to our marketable securities portfolio. Our investment strategy is focused on preserving capital and supporting our liquidity requirements, while earning a reasonable market return. We invest in a variety of U.S. government and agency securities, corporate debt securities and commercial paper. The market value of our marketable securities may decline if current market interest rates rise. The fair value on m arketable securities as of March 31, 2021 was $615.1 million. If market interest rates were to increase immediately and uniformly by 10% from levels as of March 31, 2021, we believe the decline in fair market value of our investment portfolio would be immaterial. Our marketable securities are recorded at fair value, and gains or losses from these securities are recognized within other comprehensive income as they occur.
+
+Foreign Currency Exchange Rate Risk 
+
+We have foreign currency exposure to exchange rate fluctuations and particularly with respect to the Euro, British pound sterling, Japanese yen, Singapore dollar and Australian dollar. Therefore, our investment in our subsidiaries is sensitive to fluctuations in currency exchange rates. The effect of a change in currency exchange rates on our net investment in international subsidiaries is reflected in the accumulated other comprehensive income component of stockholders&#8217; equity. If foreign exchange rates for our international subsidiaries were to have depreciated immediately and uniformly by 10% relative to the U.S. dollar from levels as of March 31, 2021, the result would have been a reduction of stockholders&#8217; equity of approximately $21.1 million. 
+
+&#160;
+
+As discussed in &#8220;Note 5 . Financial Instruments &#8221; to our consolidated financial statements , we have an intercompany loan agreement with our German subsidiary, Abiomed Europe GMBH. In conjunction with this intercompany loan agreement, we entered into a cross-currency swap agreement to convert the Euro denominated intercompany loan into U.S. dollars. The objective of this cross-currency swap is to hedge the variability of cash flows related to the forecasted interest and principal payments on the Euro denominated fixed rate loan against changes in the exchange rate between the U.S. dollar and the Euro. We use such a foreign-exchange-related derivative instrument to manage our exposure related to changes in the exchange rate on our intercompany loan. We do not enter into derivative instruments for any purpose other than for the cash flow hedge described above . 
+
+Credit Risk
+
+In the normal course of business, we provide credit to our customers in the health care industry, perform credit evaluations of these customers, and maintain allowances for potential credit losses, which have historically been adequate compared to actual losses. In fiscal year 2021, we had no customers that represented 10% or more of our total revenue or accounts receivable. Credit is extended based on an evaluation of a customer&#8217;s historical financial condition and generally collateral is not required. Our history of credit losses has not been significant and we maintain an allowance for doubtful accounts based on our assessment of the collectability of accounts receivable. Accounts receivable are geographically dispersed, primarily throughout the U.S., as well as in Europe and other foreign countries where formal distributor agreements exist. Our exposure to credit losses may increase if our customers are adversely affected by changes in healthcare laws, coverage, and reimbursement, economic pressures or uncertainty associated with local or global economic recessions, disruption associated with the current COVID-19 pandemic, or other customer-specific factors. 
+
+Other Investment Risk
+
+We are exposed to investment risks related to changes in the underlying financial condition and credit capacity of certain of our other investments. We periodically make investments in medical device companies that focus on heart failure and heart pump technologies. We monitor any events or changes in circumstances that may have a significant effect on the fair value of our other investments, either due to impairment or based on observable price changes, and make any necessary adjustments. Should these companies experience a decline in financial condition or credit capacity, or fail to meet certain development milestones, a decline in the investments&#8217; values may occur, resulting in unrealized or realized losses. The aggregate carrying amount of our other investments was $101.6 million and $94.4 million as of March 31, 2021 and 2020, respectively, and is classified within other assets on our consolidated balance sheets. In fiscal year 2019, we invested $25.0 million in medical device company Shockwave Medical. The fair value of this investment as of March 31, 2021 was $38.7 million and we recognized a pre-tax gain of $50.8 million in other income (expense), net. Also included in other income (expense) is a change in fair value on portfolio investment of $1.0 million relating to certain of our investments in other private medical device companies. 
+
+##TABLE_START 
